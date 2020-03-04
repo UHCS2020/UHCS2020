@@ -1,5 +1,20 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 12:45 - 1:00
+  info: "Participants Arrive and Posters Arranged"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 1:00 - 1:05
+  info: "Welcome / Opening Remarks (General Chair)"
+
+- time: 1:05 - 1:15
+  info: "Keynote Speaker (TBD)"
+  
+- time: 1:15 - 1:30
+  info: "2 Paper Presentation - 10 minutes each Paper (5 minute each presentation and 2 minutes Q/A)"
+
+- time: 1:30 - 1:50
+  info: "Poster Presentations starts"
+
+- time: 1:50 - 2:00
+  info: "Closing Remarks and Papers Awarded (General Chair)"
+
+- time: 2:00 - 2:30
+  info: "Lunch and poster presentations continued"

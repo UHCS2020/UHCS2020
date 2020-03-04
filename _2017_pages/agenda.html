@@ -2,48 +2,43 @@
 layout: 2017_default
 permalink: /agenda
 title: Agenda
-published: true
 ---
     <!--background color-->
     <script type="text/javascript">
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
     </script>
 
-    <div class="event black-frame">
+    <section id="conference" class="black-frame about about-container about-container-top">
       <h1>{{ page.title }}</h1>
 
-        <h2>Day 1</h2>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
-                </tr>
-            </thead>
+      <!-- <div class="icon-about">
+        <img src="../css/2017_style/img/TBD.jpeg" alt="icon-about">
+      </div> -->
+      <h2 class="first">Conference agenda</h2>
 
-            {% for agenda in site.data.twenty_17.agendas_1 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
-            {% endfor %}
-        </table>
+      <p>      
+        <ul>
+          <li>12:45 - 1:00	Participants Arrive and Posters Arranged</li>
+          <li>1:00 - 1:05 Welcome / Opening Remarks (General Chair)</li>
+          <li>1:05 - 1:15 Keynote Speaker (TBD)</li>
+          <li>1:15 - 1:30 2 Paper Presentation - 10 minutes each Paper (5 minute each presentation and 2 minutes Q/A)</li>
+          <li>1:30 - 1:50 Poster Presentations starts</li>
+          <li>1:50 - 2:00 Closing Remarks and Papers Awarded (General Chair)</li>
+          <li>2:00 - 2:30 Lunch and poster presentations continued</li>
 
-        <h2>Day 2</h2>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
-                </tr>
+        </ul>
+        </p>
+        Venue: Lamar Fleming, Jr. Building Room 162
+    </section>
+<!-- 
+    <section id="fourth" class="black-frame about about-container">
+      <h1>Title</h1>
 
-            </thead>
+      <p>More</p>
+    </section>
 
-            {% for agenda in site.data.twenty_17.agendas_2 %}
-                <tr>
-                    <td>{{ agenda.time }}</td>
-                    <td>{{ agenda.info }}</td>
-                </tr> 
-            {% endfor %}
-        </table>
-    </div>
+    <section id="fifth" class="black-frame about about-container about-container-bottom">
+      <h1>About</h1>
+
+      <p>Info</p>
+    </section> -->

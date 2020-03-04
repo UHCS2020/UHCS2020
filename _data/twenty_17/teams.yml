@@ -1,24 +1,51 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Rishabh Sharma 
+  name: Rishabh Sharma 
+  subtitle: General Chair
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Alireza Ansaripour
+  name: Alireza Ansaripour
+  subtitle: Program Chair
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Anukriti Mishra
+  name: Anukriti Mishra
+  subtitle: Financial Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Urmila Sampathkumar
+  name: Urmila Sampathkumar
+  subtitle: Publication Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Yigeng Zhang
+  name: Yigeng Zhang
+  subtitle: Technical Chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Dana Alsagheer
+  name: Dana Alsagheer
+  subtitle: Arrangement Chair
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
