@@ -26,7 +26,7 @@
   description: More Info
 
 - title: Name
-  name: Name-4
+  name: Name-3
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -34,8 +34,8 @@
   topic: Topic
   description: More Info
 
-  - title: Name
-  name: Name-5
+- title: Name
+  name: Name-3
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -43,8 +43,8 @@
   topic: Topic
   description: More Info
 
-  - title: Name
-  name: Name-6
+- title: Name
+  name: Name-3
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
